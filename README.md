@@ -1,25 +1,28 @@
-# Привет, я [Ваше Имя]! 👋
+# Привет, я Надир! 👋
 
-Я [ваша роль: например, начинающий разработчик, фронтенд-инженер, студент IT-направления] с интересом к [укажите область: например, веб‑разработке, анализу данных, геймдеву]. В свободное время люблю [укажите хобби: например, решать задачи на LeetCode, собирать 3D‑модели, читать научную фантастику].
+Я начинающий разработчик, с интересом к веб‑разработке. В свободное время люблю решать задачи на LeetCode, и развивать себя в области програмирования.
 
 ---
 
 ## Чем занимаюсь
 
-- 🔧 Разрабатываю [тип проектов: веб‑приложения, ботов, скрипты автоматизации] на [языки/технологии: например, Python, JavaScript].
-- 📊 Анализирую данные и строю визуализации с помощью [инструменты: например, Pandas, Matplotlib].
+- 🔧 Разрабатываю веб‑приложения на  JavaScript и React.
+- 📊 Анализирую данные и строю визуализации с помощью Pandas.
 - 💻 Участвую в хакатонах и pet‑проектах — всегда открыт для коллабораций!
-- 📚 Постоянно учусь: сейчас углубляюсь в [тема: например, алгоритмы, React, Docker].
+- 📚 Постоянно учусь: сейчас углубляюсь в Docker.
 
 ---
 
 ## Мои навыки
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![tailwind]
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React]
+![react-router]
+![redux]
+![redux toolkit]
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
@@ -36,20 +39,17 @@
 
 ## Интересные факты обо мне
 
-- 🔭 Сейчас изучаю: **[тема: например, React и GraphQL]**
-- 🌱 Интересуюсь: **[область: например, искусственным интеллектом, кибербезопасностью]**
-- 💬 Спросите меня о: **[тема: например, настройке окружения, выборе стека для старта]**
-- 🛠️ Мой стек: **[технологии]**
-- 📫 Как связаться: **[ваш email]**
-- ⚡ Факт обо мне: **[например, «написал свой первый код в 12 лет» или «фанат open‑source»]**
+- 🔭 Сейчас изучаю: **[ Next.js и Node.js]**
+- 🌱 Интересуюсь: **[BackEnd-Node.js]**
+- 🛠️ Мой стек: **[JavaScript]**
+- 📫 Как связаться: **[bagirovnr@gmail.com]**
 
 ---
 
 ## Со мной можно связаться
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[ВАШ_ПРОФИЛЬ])
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/[ВАШ_НИК])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[ВАШ_НИК])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://az.linkedin.com/in/nadir-ba%C4%9F%C4%B1rov-b50b04269)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/baghirovNr)
 
 ---
 
